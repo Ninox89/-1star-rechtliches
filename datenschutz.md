@@ -1,258 +1,153 @@
 ---
 layout: default
-title: Datenschutzerklärung – 1STAR
+title: Nutzungsbedingungen – 1STAR
 ---
 
-# Datenschutzerklärung – 1STAR
+# Nutzungsbedingungen – 1STAR
 
 **StarlightCraft Team Management**  
 **Stand: 19. November 2026**
 
-## 1. Allgemeine Informationen
+## 1. Allgemeines
 
-Der Schutz personenbezogener Daten ist uns wichtig.
-
-Diese Datenschutzerklärung informiert darüber, welche personenbezogenen Daten bei der Nutzung der Anwendung 1STAR verarbeitet werden, zu welchen Zwecken dies geschieht und welche Rechte betroffene Personen haben.
+Willkommen bei 1STAR!
 
 1STAR ist eine Teammanagement-Anwendung für das Minecraft-Projekt StarlightCraft.
 
-## 2. Verantwortliche Stelle
+Die Anwendung dient der internen Kommunikation, Dokumentation, Aufgabenverwaltung, Projektplanung und Organisation des StarlightCraft-Teams.
 
-Verantwortlich für die Datenverarbeitung im Rahmen von 1STAR ist:
+Diese Nutzungsbedingungen regeln die Verwendung von 1STAR.
+
+**Betreiber:** Niklas Schiffer  
+**Anschrift:** An der Joch 26, 51061 Köln  
+**Kontakt:** ninox.fnf@gmail.com
+
+## 2. Zugang zur Anwendung
+
+Der Zugang zu 1STAR ist grundsätzlich für freigegebene Mitglieder des StarlightCraft-Teams vorgesehen.
+
+Zur Anmeldung verwendet 1STAR die Discord-Authentifizierung.
+
+Voraussetzungen für die Nutzung sind:
+
+- Ein gültiges Discord-Konto
+- Die Mitgliedschaft im vorgesehenen StarlightCraft-Discord-Server
+- Eine vom Team freigegebene Rolle oder Berechtigung
+- Die Einhaltung dieser Nutzungsbedingungen
+
+Ein erfolgreiches Discord-Login bedeutet nicht automatisch, dass der Zugang zur Teamverwaltung freigegeben ist.
+
+Es besteht kein Anspruch auf die Freischaltung eines Benutzerkontos.
+
+Minderjährige dürfen 1STAR nur nutzen, soweit dies nach geltendem Recht und den Nutzungsbedingungen von Discord zulässig ist.
+
+## 3. Funktionen von 1STAR
+
+Je nach Entwicklungsstand und Berechtigung bietet 1STAR unter anderem folgende Funktionen:
+
+- Teamverwaltung und Discord-Rollensynchronisation
+- Gemeinsame Notizbücher und Dokumentationen
+- Projekt- und Aufgabenmanagement
+- Kalender und Besprechungsplanung
+- Teamankündigungen
+- Dateiablage
+- Minecraft-Serverinformationen
+- Integration ausgewählter Discord-Kanäle
+
+Nicht jede Funktion muss jederzeit oder in jeder Programmversion verfügbar sein.
+
+Die Anwendung wird fortlaufend weiterentwickelt.
+
+## 4. Verhaltensregeln
+
+Alle Nutzer verpflichten sich zu einem respektvollen und verantwortungsvollen Umgang mit der Anwendung.
+
+Untersagt sind insbesondere:
+
+- Beleidigungen, Bedrohungen und Belästigungen
+- Diskriminierende oder rechtswidrige Inhalte
+- Unbefugter Zugriff auf fremde Konten oder Daten
+- Das Veröffentlichen vertraulicher Teamdaten ohne Berechtigung
+- Die Verbreitung von Schadsoftware
+- Die absichtliche Störung oder Manipulation der Anwendung
+- Das Umgehen von Zugriffs- und Sicherheitsmaßnahmen
+- Das Hochladen von Inhalten, die Rechte Dritter verletzen
+
+Zusätzlich gelten die internen Teamregeln von StarlightCraft, soweit diese wirksam einbezogen wurden.
+
+## 5. Rollen und Berechtigungen
+
+1STAR verwendet ein rollenbasiertes Berechtigungssystem.
+
+Je nach Discord-Rolle erhalten Teammitglieder unterschiedliche Zugriffs- und Verwaltungsrechte.
+
+Bestimmte Bereiche können ausschließlich Administratoren oder der Teamleitung zugänglich sein.
+
+Die Teamleitung kann Berechtigungen ändern oder Zugänge sperren, wenn hierfür ein sachlicher Grund besteht, insbesondere bei Sicherheitsproblemen oder Regelverstößen.
+
+## 6. Inhalte und Urheberrechte
+
+Die Rechte an von Nutzern erstellten Dokumenten, Bildern und sonstigen Inhalten verbleiben grundsätzlich bei ihren jeweiligen Rechteinhabern.
+
+Mit dem Hochladen oder Erstellen von Inhalten räumen Nutzer dem Betreiber die für die technische Speicherung, Anzeige, gemeinsame Bearbeitung und Bereitstellung innerhalb des Teams erforderlichen Nutzungsrechte ein.
+
+Nutzer dürfen nur Inhalte bereitstellen, zu deren Verwendung sie berechtigt sind.
+
+Interne Teamdokumente, vertrauliche Projektinformationen und geschützte Inhalte dürfen nicht ohne entsprechende Erlaubnis außerhalb des Teams veröffentlicht werden.
+
+## 7. Discord und externe Dienste
+
+1STAR verwendet externe Dienste, insbesondere Discord und Supabase.
+
+Für die Nutzung dieser Dienste gelten zusätzlich deren jeweilige Nutzungsbedingungen und Datenschutzregelungen.
+
+1STAR ist eine eigenständige Anwendung und wird nicht offiziell von Discord, Microsoft, Mojang oder Microsofts Minecraft-Team betrieben oder unterstützt.
+
+## 8. Verfügbarkeit und Aktualisierungen
+
+Der Betreiber bemüht sich um eine zuverlässige Bereitstellung der Anwendung.
+
+Eine jederzeitige Verfügbarkeit kann jedoch nicht garantiert werden. Es kann insbesondere durch Wartung, technische Störungen oder Probleme bei Drittanbietern zu Unterbrechungen kommen.
+
+Updates können Fehler beheben, Sicherheitsverbesserungen enthalten oder Funktionen verändern.
+
+Bei sicherheitsrelevanten Änderungen kann die Nutzung einer aktuellen Programmversion erforderlich sein.
+
+## 9. Sperrung und Beendigung der Nutzung
+
+Nutzer können die Nutzung von 1STAR jederzeit beenden.
+
+Die Teamleitung kann Zugänge bei Beendigung der Teammitgliedschaft, bei Verstößen gegen die Nutzungsbedingungen oder aus berechtigten Sicherheitsgründen deaktivieren.
+
+Der Umgang mit personenbezogenen Daten nach Beendigung des Zugangs richtet sich nach der Datenschutzerklärung und den gesetzlichen Vorgaben.
+
+Gemeinschaftlich erstellte Projektinhalte können, soweit rechtlich zulässig und für die weitere Teamarbeit erforderlich, erhalten bleiben.
+
+## 10. Haftung
+
+Der Betreiber haftet im Rahmen der gesetzlichen Vorschriften.
+
+Die Haftung für Schäden aus der Verletzung von Leben, Körper oder Gesundheit sowie bei Vorsatz und grober Fahrlässigkeit bleibt unberührt.
+
+Im Übrigen richtet sich die Haftung nach den anwendbaren gesetzlichen Regelungen.
+
+Nutzer sind dafür verantwortlich, keine unzulässigen Inhalte oder vertraulichen Zugangsdaten in 1STAR zu veröffentlichen.
+
+## 11. Änderungen der Nutzungsbedingungen
+
+Diese Nutzungsbedingungen können aus sachlichen Gründen, beispielsweise aufgrund rechtlicher oder technischer Änderungen, angepasst werden.
+
+Über wesentliche Änderungen werden Nutzer in geeigneter Weise informiert.
+
+Änderungen gelten nur im rechtlich zulässigen Umfang. Gesetzliche Rechte der Nutzer bleiben unberührt.
+
+## 12. Kontakt
+
+Bei Fragen zu 1STAR oder diesen Nutzungsbedingungen kannst du den Betreiber kontaktieren.
 
 **Niklas Schiffer**  
 An der Joch 26  
-51061 Köln  
-Deutschland
-
-**E-Mail:** ninox.fnf@gmail.com
-
-**Datenschutzbeauftragter, falls gesetzlich erforderlich:** [KONTAKT ERGÄNZEN ODER ABSCHNITT ENTFERNEN]
-
-## 3. Welche Daten verarbeitet werden
-
-Bei der Nutzung von 1STAR können folgende personenbezogene Daten verarbeitet werden:
-
-### Discord-Kontodaten
-
-- Discord-Benutzer-ID
-- Discord-Benutzername und Anzeigename
-- Discord-Profilbild
-- Discord-Servermitgliedschaft
-- Discord-Rollen und Rollen-IDs
-- E-Mail-Adresse, soweit diese tatsächlich angefordert und von Discord übermittelt wird
-
-### Teambezogene Daten
-
-- Minecraft-Benutzername
-- Teamrolle und Berechtigungen
-- Zugewiesene Aufgaben
-- Projektzugehörigkeit
-- Notizen und Dokumentationen
-- Kommentare und Dateianhänge
-- Termine und Besprechungsinformationen
-
-### Discord-Kanalinformationen
-
-Soweit die entsprechende Integration aktiviert ist, können folgende Daten verarbeitet werden:
-
-- Freigegebene Kanal-IDs und Kanalnamen
-- Nachrichten und gegebenenfalls Anhänge
-- Nachrichtenautoren
-- Nachrichtenzeitpunkte
-
-Die Verarbeitung erfolgt entsprechend den erteilten Berechtigungen und den technisch eingerichteten Funktionen.
-
-### Technische Daten
-
-Beim Betrieb können technische Informationen wie IP-Adressen, Zugriffszeiten, Fehlermeldungen und Verbindungsprotokolle durch die eingesetzten Dienste verarbeitet werden.
-
-Der tatsächliche Datenumfang hängt von der Konfiguration und den aktivierten Funktionen ab.
-
-## 4. Zwecke der Datenverarbeitung
-
-Personenbezogene Daten werden für folgende Zwecke verarbeitet:
-
-- Anmeldung und Identifizierung von Teammitgliedern
-- Überprüfung der Discord-Servermitgliedschaft
-- Zuordnung von Rollen und Berechtigungen
-- Verwaltung von Aufgaben, Projekten und Notizen
-- Teamkommunikation
-- Bereitstellung von Dateien
-- Planung von Besprechungen und Terminen
-- Versenden von Benachrichtigungen
-- Erkennung und Behebung technischer Probleme
-- Schutz vor Missbrauch und unberechtigtem Zugriff
-
-Eine darüber hinausgehende Verarbeitung findet nur statt, wenn eine entsprechende rechtliche Grundlage besteht.
-
-## 5. Rechtsgrundlagen der Verarbeitung
-
-Soweit die Datenschutz-Grundverordnung (DSGVO) Anwendung findet, erfolgt die Verarbeitung personenbezogener Daten auf Grundlage der jeweils einschlägigen Vorschriften.
-
-Hierzu können insbesondere gehören:
-
-**Art. 6 Abs. 1 lit. b DSGVO:** Soweit die Verarbeitung zur Durchführung eines Nutzungsverhältnisses oder zur Erbringung vereinbarter Funktionen erforderlich ist.
-
-**Art. 6 Abs. 1 lit. f DSGVO:** Soweit die Verarbeitung zur Wahrung berechtigter Interessen an einer sicheren und funktionsfähigen Teamverwaltung erforderlich ist und keine überwiegenden Interessen betroffener Personen entgegenstehen.
-
-**Art. 6 Abs. 1 lit. c DSGVO:** Soweit die Verarbeitung zur Erfüllung gesetzlicher Verpflichtungen notwendig ist.
-
-**Art. 6 Abs. 1 lit. a DSGVO:** Soweit eine bestimmte freiwillige Datenverarbeitung auf einer ausdrücklich erteilten Einwilligung beruht.
-
-**Noch zu konkretisieren:** [WELCHE VERARBEITUNG AUF WELCHER RECHTSGRUNDLAGE BERUHT]
-
-## 6. Discord-Anmeldung
-
-1STAR verwendet Discord OAuth2 zur Anmeldung.
-
-Bei der Anmeldung werden Nutzer zu Discord weitergeleitet und dort authentifiziert.
-
-Im Anschluss erhält 1STAR die zur Anmeldung und Berechtigungsprüfung benötigten Kontoinformationen.
-
-Die Discord-Benutzer-ID dient zur eindeutigen Zuordnung des Benutzerkontos.
-
-Eine autorisierte Discord-Bot-Verbindung kann außerdem zur Überprüfung der Servermitgliedschaft und der zugeordneten Rollen eingesetzt werden.
-
-Die Datenverarbeitung durch Discord selbst unterliegt dessen Datenschutzregelungen.
-
-**Discord-Datenschutzerklärung:**  
-https://discord.com/privacy
-
-## 7. Datenspeicherung durch Supabase
-
-1STAR verwendet Supabase als technische Infrastruktur für die Speicherung und Verarbeitung von Anwendungsdaten.
-
-Supabase kann insbesondere für folgende Funktionen eingesetzt werden:
-
-- Benutzeranmeldung
-- Sitzungsverwaltung
-- Speicherung von Teammitgliedern und Rollen
-- Aufgaben und Projekte
-- Gemeinsame Notizbücher
-- Dateispeicherung
-- Technische Serverfunktionen
-- Echtzeit-Synchronisierung
-
-**Anbieter:** Supabase, Inc. beziehungsweise die tatsächlich vertraglich eingebundene Supabase-Gesellschaft.
-
-**Hosting-Region:** [TATSÄCHLICHE REGION DES SUPABASE-PROJEKTS EINTRAGEN]
-
-**Vertragliche Datenschutzgrundlagen und Auftragsverarbeitungsvereinbarung:** [PRÜFEN UND ERGÄNZEN]
-
-Weitere Informationen:
-
-https://supabase.com/privacy
-
-## 8. Empfänger und internationale Datenübermittlung
-
-Personenbezogene Daten können im erforderlichen Umfang an eingesetzte technische Dienstleister übermittelt werden.
-
-Dazu gehören insbesondere Discord und Supabase.
-
-Je nach Standort der Infrastruktur und der eingesetzten Dienstleister ist eine Verarbeitung personenbezogener Daten außerhalb der Europäischen Union beziehungsweise des Europäischen Wirtschaftsraums möglich.
-
-**Noch zu ergänzen:** [TATSÄCHLICHE DATENEMPFÄNGER, DRITTLÄNDER UND VERWENDETE DATENSCHUTZGARANTIEN]
-
-Eine weitere Übermittlung personenbezogener Daten erfolgt nur, soweit eine entsprechende rechtliche Grundlage vorliegt.
-
-## 9. Speicherdauer und Löschung
-
-Personenbezogene Daten werden nur so lange gespeichert, wie sie für die jeweiligen Verarbeitungszwecke erforderlich sind oder gesetzliche Pflichten eine längere Speicherung verlangen.
-
-Für 1STAR müssen folgende Speicher- und Löschregeln konkret festgelegt werden:
-
-- **Benutzerprofile:** [LÖSCHFRIST NACH TEAM-AUSTRITT]
-- **Discord-Kontozuordnungen:** [LÖSCHFRIST]
-- **Aufgaben und Projektdaten:** [AUFBEWAHRUNGSREGEL]
-- **Notizen und Dokumente:** [AUFBEWAHRUNGSREGEL]
-- **Discord-Nachrichtendaten:** [LÖSCHFRIST, SOWEIT GESPEICHERT]
-- **Technische Protokolle:** [SPEICHERDAUER]
-- **Backups:** [AUFBEWAHRUNGSDAUER]
-
-Bei einem Austritt aus dem StarlightCraft-Team wird geprüft, welche personenbezogenen Daten gelöscht werden können und welche Daten noch rechtlich oder organisatorisch erforderlich sind.
-
-Die Deinstallation der Desktop-App führt nicht automatisch zur Löschung serverseitig gespeicherter Daten.
-
-## 10. Datensicherheit
-
-1STAR ist auf den Einsatz verschiedener Sicherheitsmaßnahmen ausgelegt.
-
-Dazu zählen insbesondere:
-
-- Verschlüsselte Datenübertragung
-- Authentifizierung über Discord
-- Rollenbasierte Zugriffsrechte
-- Serverseitige Berechtigungsprüfungen
-- Geschützte API-Zugangsdaten
-- Zugriffsbeschränkungen für Datenbankeinträge
-
-Die tatsächliche Umsetzung und Wirksamkeit dieser Maßnahmen muss vor einem produktiven Einsatz kontrolliert werden.
-
-## 11. Rechte betroffener Personen
-
-Soweit die DSGVO Anwendung findet und die gesetzlichen Voraussetzungen erfüllt sind, bestehen insbesondere folgende Rechte:
-
-- Auskunft über gespeicherte personenbezogene Daten
-- Berichtigung unrichtiger Daten
-- Löschung personenbezogener Daten
-- Einschränkung der Datenverarbeitung
-- Datenübertragbarkeit
-- Widerspruch gegen bestimmte Verarbeitungen
-- Widerruf einer Einwilligung mit Wirkung für die Zukunft
-
-Betroffene Personen können entsprechende Anfragen an die verantwortliche Stelle richten.
-
-**Kontakt:**  
-Niklas Schiffer  
-ninox.fnf@gmail.com
-
-Außerdem besteht das Recht auf Beschwerde bei einer zuständigen Datenschutzaufsichtsbehörde.
-
-## 12. Erforderliche Daten
-
-Für die Nutzung von 1STAR sind bestimmte Informationen notwendig.
-
-Dazu gehören insbesondere Angaben zur Discord-Authentifizierung sowie die für die Rollen- und Mitgliedschaftsprüfung erforderlichen Daten.
-
-Ohne diese Informationen kann möglicherweise kein Zugang zu 1STAR gewährt werden.
-
-Optionale Profilinformationen werden nur benötigt, soweit die entsprechenden Funktionen verwendet werden.
-
-## 13. Automatisierte Entscheidungen
-
-1STAR kann die Zugangsberechtigung automatisch anhand der Discord-Servermitgliedschaft und der zugeordneten Rollen prüfen.
-
-Dabei handelt es sich um eine regelbasierte Zugangsprüfung.
-
-**Noch zu prüfen:** [OB DARÜBER HINAUS AUTOMATISIERTE ENTSCHEIDUNGEN EINSCHLIESSLICH PROFILING IM SINNE VON ART. 22 DSGVO STATTFINDEN]
-
-## 14. Datenschutzhinweise zur Informationswebseite
-
-Sofern diese Datenschutzerklärung über GitHub Pages veröffentlicht wird, erfolgt das Hosting über GitHub.
-
-Beim Besuch der Webseite können technische Zugriffsdaten durch GitHub verarbeitet werden.
-
-Weitere Informationen:
-
-https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
-
-**Noch zu prüfen:** [OB WEITERE WEBSITE-DIENSTE ODER TRACKINGTECHNOLOGIEN EINGESETZT WERDEN]
-
-## 15. Änderungen dieser Datenschutzerklärung
-
-Diese Datenschutzerklärung kann angepasst werden, wenn sich die Funktionen von 1STAR, die eingesetzten Dienstleister oder rechtliche Anforderungen verändern.
-
-Die jeweils aktuelle Version wird über die offiziellen Informationsseiten von 1STAR zur Verfügung gestellt.
-
-## 16. Kontakt zum Datenschutz
-
-Für Fragen zum Datenschutz sowie Anfragen zu Auskunft, Berichtigung oder Löschung personenbezogener Daten:
-
-**Niklas Schiffer**  
-An der Joch 26  
-51061 Köln  
-Deutschland
+51061 Köln
 
 **E-Mail:** ninox.fnf@gmail.com
 
@@ -260,34 +155,4 @@ Deutschland
 
 © 2026 StarlightCraft – 1STAR Team Management
 
-*Diese Datenschutzerklärung gilt für die tatsächlich angebotenen und betriebenen Funktionen der Anwendung 1STAR.*
-## 14. Datenschutzhinweise für die Informationswebseite
-
-Sofern diese Datenschutzerklärung über GitHub Pages veröffentlicht wird, erfolgt das Hosting der Webseite über GitHub.
-
-Beim Aufruf können technische Zugriffsdaten durch GitHub verarbeitet werden.
-
-Weitere Informationen:
-
-https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
-
-**Vor Veröffentlichung prüfen:** [OB WEITERE WEBSITE-DIENSTE, COOKIES ODER TRACKINGTECHNOLOGIEN EINGESETZT WERDEN.]
-
-## 15. Änderungen dieser Datenschutzerklärung
-
-Diese Datenschutzerklärung kann angepasst werden, wenn sich Funktionen, eingesetzte Dienste oder rechtliche Anforderungen ändern.
-
-Die jeweils aktuelle Fassung wird über die offiziellen Informationsseiten von 1STAR bereitgestellt.
-
-## 16. Kontakt
-
-Fragen zum Datenschutz oder Anträge auf Auskunft und Löschung können an die verantwortliche Stelle gerichtet werden.
-
-**Betreiber:** [Niklas Schiffers]  
-**E-Mail:** [ninox.fnf@gmail.com]
-
----
-
-© 2026 StarlightCraft – 1STAR Team Management
-
-*Diese Datenschutzerklärung gilt für die tatsächlich angebotenen und betriebenen Funktionen von 1STAR.*
+*1STAR ist ein eigenständiges Community-Projekt.*
